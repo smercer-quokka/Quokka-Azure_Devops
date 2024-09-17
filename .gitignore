@@ -1,0 +1,60 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+# Directories potentially created on network or removable volumes
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# macOS specific caches
+*.swp
+*.swo
+*.swn
+
+# VSCode specific
+.vscode/
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Byword
+Byword/
+Icon\r
+
+# iCloud generated files
+.*.icloud
+
+# Others
+.idea/
